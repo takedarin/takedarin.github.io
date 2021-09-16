@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/takedarin.github.io"
+baseurl: "/master"
 url: "takedarin.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
