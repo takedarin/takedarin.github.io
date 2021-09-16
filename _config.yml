@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/type-on-strap"
+baseurl: ""
 url: "takedarin.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
